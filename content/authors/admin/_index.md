@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zoe Yang
+title: Zoe Yang 楊揚
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: https://www.bschool.cuhk.edu.hk/staff/yang-yang-zoe/
 
 # Short bio (displayed in user profile at end of posts)
-bio: ​Research Interests: Urban Economics, Real Estate, Sustainability, Industry Organization 
+bio: Urban Economics, Real Estate, Sustainability, Industry Organization 
 
 # Interests to show in About widget
 interests:
