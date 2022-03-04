@@ -71,8 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prof. Zoe Yang is currently an Assistant Professor of Real Estate at The Chinese University of Hong Kong. Her research interests include issues relating to urban economics, real estate, and sustainability. She received her PhD in Real Estate from the National University of Singapore in 2018. She obtained her MSc in Urban Land Economics in 2014 and a BComm with Honours in Finance and Real Estate in 2012 from the University of British Columbia. Her papers have been presented in several leading international conferences, and published in academic journals such as Journal of Public Economics, Journal of Urban Economics, Real Estate Economics, Regional Science and Urban Economics,  Journal of Economic Behavior and Organization, and Energy Economics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
