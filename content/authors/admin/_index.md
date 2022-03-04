@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zoe Yang 楊揚
+title: Zoe Yang
 
 # Is this the primary user of the site?
 superuser: true
